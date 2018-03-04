@@ -13,7 +13,7 @@ Vue.js打造一个开源的CNode社区，实现了浏览、发帖、收藏、回
 * **localStorage**：保存用户信息。
 * **Canvas**：页面顶部小雪花效果。
 * **Webpack**：vue-cli自带Webpack，但是需要自己改造一下，比如要对需要安装sass相关loader，vue-cli已经配置好了webpack，你只需要安装依赖就可以，使用的时候只需要`<style lang="scss"></style>`。
-* **SASS**(**SCSS**)：用SCSS做CSS预处理语言，有些地方很方便，个人很喜欢用。(详看👉[SASS用法指南](https://microzz.com/2017/03/18/sass/))
+* **SASS**(**SCSS**)：用SCSS做CSS预处理语言，有些地方很方便，个人很喜欢用。
 * **flex**：flex弹性布局，**简单**适配手机、PC端。
 * **CSS3**：CSS3过渡动画及样式。
 
